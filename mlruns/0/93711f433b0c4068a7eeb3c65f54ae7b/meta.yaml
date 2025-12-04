@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Data_science/mlflowexperiments-main/mlruns/0/93711f433b0c4068a7eeb3c65f54ae7b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93711f433b0c4068a7eeb3c65f54ae7b
+run_name: grandiose-cub-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764884366616
+status: 1
+tags: []
+user_id: SABEEL1
